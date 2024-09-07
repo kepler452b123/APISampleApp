@@ -1,0 +1,31 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.dx-search-panel {
+    background-color: #2a2a2a !important; /* Use your table's background color */
+    color: white !important; /* Adjust text color to match */
+}
+.dx-datagrid-search-panel input {
+    background-color: #2a2a2a !important; /* Match the background color */
+    color: #03A9F4 !important; /* Adjust input text color */
+    border: 1px solid #444444; /* Optional: Add a border that fits your style */
+}
+
+.dx-button {
+    color: white !important; /* Set text color to white */
+    background-color: transparent !important; /* Make background transparent if needed */
+    border-color: white !important; /* Set border color to white */
+}
+
+body{
+    background-color:darkgray;
+}
